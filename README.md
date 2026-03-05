@@ -78,6 +78,13 @@ It explores the use of **Large Language Models (LLMs)** for automated essay grad
 
 ---
 
+## Project Demo
+
+A short demonstration of the automated essay grading system.
+
+Upload an essay file and the system predicts a score and provides feedback using a fine-tuned transformer model.
+
+Demo video: video_automated_essay_grading.mp4
 ## Future Improvements
 
 - Improve scoring accuracy with larger datasets
